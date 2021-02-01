@@ -6,7 +6,8 @@ All UDLs **ARE COMPATIBLE** with 65C02 instructions.
 I used the npp++ syntax file that came with the 64tass source code as a starter: [64tass source](https://sourceforge.net/projects/tass64/)
 
 I don't understand half the things in the .xml file.
-I simply guessed and experimented with it until things worked
+I simply guessed and experimented with it until things worked.
+If I actually broke something, sorry
 
 # Variants
 There are three variants:
